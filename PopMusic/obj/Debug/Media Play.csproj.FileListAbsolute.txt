@@ -1,0 +1,13 @@
+H:\上机练习\Winform\PopMusic\PopMusic\bin\Debug\Media Play.exe.config
+H:\上机练习\Winform\PopMusic\PopMusic\bin\Debug\Media Play.exe
+H:\上机练习\Winform\PopMusic\PopMusic\bin\Debug\Media Play.pdb
+H:\上机练习\Winform\PopMusic\PopMusic\bin\Debug\Interop.WMPLib.dll
+H:\上机练习\Winform\PopMusic\PopMusic\bin\Debug\AxInterop.WMPLib.dll
+H:\上机练习\Winform\PopMusic\PopMusic\obj\Debug\Interop.WMPLib.dll
+H:\上机练习\Winform\PopMusic\PopMusic\obj\Debug\AxInterop.WMPLib.dll
+H:\上机练习\Winform\PopMusic\PopMusic\obj\Debug\Media Play.csproj.ResolveComReference.cache
+H:\上机练习\Winform\PopMusic\PopMusic\obj\Debug\PopMusic.Form1.resources
+H:\上机练习\Winform\PopMusic\PopMusic\obj\Debug\PopMusic.Properties.Resources.resources
+H:\上机练习\Winform\PopMusic\PopMusic\obj\Debug\Media Play.csproj.GenerateResource.Cache
+H:\上机练习\Winform\PopMusic\PopMusic\obj\Debug\Media Play.exe
+H:\上机练习\Winform\PopMusic\PopMusic\obj\Debug\Media Play.pdb

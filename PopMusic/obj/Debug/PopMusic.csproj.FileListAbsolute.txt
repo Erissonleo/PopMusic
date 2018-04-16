@@ -1,0 +1,73 @@
+D:\360data\重要数据\我的文档\Visual Studio 2012\Projects\PopMusic\PopMusic\bin\Debug\PopMusic.exe.config
+D:\360data\重要数据\我的文档\Visual Studio 2012\Projects\PopMusic\PopMusic\bin\Debug\PopMusic.exe
+D:\360data\重要数据\我的文档\Visual Studio 2012\Projects\PopMusic\PopMusic\bin\Debug\PopMusic.pdb
+D:\360data\重要数据\我的文档\Visual Studio 2012\Projects\PopMusic\PopMusic\bin\Debug\Interop.WMPLib.dll
+D:\360data\重要数据\我的文档\Visual Studio 2012\Projects\PopMusic\PopMusic\bin\Debug\AxInterop.WMPLib.dll
+D:\360data\重要数据\我的文档\Visual Studio 2012\Projects\PopMusic\PopMusic\obj\Debug\PopMusic.csprojResolveAssemblyReference.cache
+D:\360data\重要数据\我的文档\Visual Studio 2012\Projects\PopMusic\PopMusic\obj\Debug\Interop.WMPLib.dll
+D:\360data\重要数据\我的文档\Visual Studio 2012\Projects\PopMusic\PopMusic\obj\Debug\AxInterop.WMPLib.dll
+D:\360data\重要数据\我的文档\Visual Studio 2012\Projects\PopMusic\PopMusic\obj\Debug\PopMusic.csproj.ResolveComReference.cache
+D:\360data\重要数据\我的文档\Visual Studio 2012\Projects\PopMusic\PopMusic\obj\Debug\PopMusic.Form1.resources
+D:\360data\重要数据\我的文档\Visual Studio 2012\Projects\PopMusic\PopMusic\obj\Debug\PopMusic.Properties.Resources.resources
+D:\360data\重要数据\我的文档\Visual Studio 2012\Projects\PopMusic\PopMusic\obj\Debug\PopMusic.csproj.GenerateResource.Cache
+D:\360data\重要数据\我的文档\Visual Studio 2012\Projects\PopMusic\PopMusic\obj\Debug\PopMusic.exe
+D:\360data\重要数据\我的文档\Visual Studio 2012\Projects\PopMusic\PopMusic\obj\Debug\PopMusic.pdb
+D:\360data\重要数据\我的文档\Visual Studio 2012\Projects\PopMusic\PopMusic\bin\Debug\Music\后弦 - 昆明湖.mp3
+D:\360data\重要数据\我的文档\Visual Studio 2012\Projects\PopMusic\PopMusic\bin\Debug\Music\王力宏 - 我们的歌.mp3
+D:\360data\重要数据\我的文档\Visual Studio 2012\Projects\PopMusic\PopMusic\bin\Debug\Music\许嵩 - 山水之间.mp3
+D:\360data\重要数据\我的文档\Visual Studio 2012\Projects\PopMusic\PopMusic\bin\Debug\Music\后弦 - 昆明湖.wmv
+D:\360data\重要数据\我的文档\Visual Studio 2012\Projects\PopMusic\PopMusic\bin\Debug\Music\王力宏 - 我们的歌.wmv
+D:\360data\重要数据\我的文档\Visual Studio 2012\Projects\PopMusic\PopMusic\bin\Debug\Music\许嵩 - 山水之间.wmv
+D:\360data\重要数据\我的文档\Visual Studio 2012\Projects\练习\Winform\PopMusic\PopMusic\bin\Debug\PopMusic.exe.config
+D:\360data\重要数据\我的文档\Visual Studio 2012\Projects\练习\Winform\PopMusic\PopMusic\obj\Debug\Interop.WMPLib.dll
+D:\360data\重要数据\我的文档\Visual Studio 2012\Projects\练习\Winform\PopMusic\PopMusic\obj\Debug\AxInterop.WMPLib.dll
+D:\360data\重要数据\我的文档\Visual Studio 2012\Projects\练习\Winform\PopMusic\PopMusic\obj\Debug\PopMusic.csproj.ResolveComReference.cache
+D:\360data\重要数据\我的文档\Visual Studio 2012\Projects\练习\Winform\PopMusic\PopMusic\obj\Debug\PopMusic.exe
+D:\360data\重要数据\我的文档\Visual Studio 2012\Projects\练习\Winform\PopMusic\PopMusic\obj\Debug\PopMusic.pdb
+D:\360data\重要数据\我的文档\Visual Studio 2012\Projects\练习\Winform\PopMusic\PopMusic\bin\Debug\Music\后弦 - 昆明湖.wmv
+D:\360data\重要数据\我的文档\Visual Studio 2012\Projects\练习\Winform\PopMusic\PopMusic\bin\Debug\Music\王力宏 - 我们的歌.wmv
+D:\360data\重要数据\我的文档\Visual Studio 2012\Projects\练习\Winform\PopMusic\PopMusic\bin\Debug\Music\许嵩 - 山水之间.wmv
+D:\360data\重要数据\我的文档\Visual Studio 2012\Projects\练习\Winform\PopMusic\PopMusic\bin\Debug\Music\后弦 - 昆明湖.mp3
+D:\360data\重要数据\我的文档\Visual Studio 2012\Projects\练习\Winform\PopMusic\PopMusic\bin\Debug\Music\王力宏 - 我们的歌.mp3
+D:\360data\重要数据\我的文档\Visual Studio 2012\Projects\练习\Winform\PopMusic\PopMusic\bin\Debug\Music\许嵩 - 山水之间.mp3
+D:\360data\重要数据\我的文档\Visual Studio 2012\Projects\练习\Winform\PopMusic\PopMusic\bin\Debug\PopMusic.exe
+D:\360data\重要数据\我的文档\Visual Studio 2012\Projects\练习\Winform\PopMusic\PopMusic\bin\Debug\PopMusic.pdb
+D:\360data\重要数据\我的文档\Visual Studio 2012\Projects\练习\Winform\PopMusic\PopMusic\bin\Debug\Interop.WMPLib.dll
+D:\360data\重要数据\我的文档\Visual Studio 2012\Projects\练习\Winform\PopMusic\PopMusic\bin\Debug\AxInterop.WMPLib.dll
+D:\360data\重要数据\我的文档\Visual Studio 2012\Projects\练习\Winform\PopMusic\PopMusic\obj\Debug\PopMusic.csprojResolveAssemblyReference.cache
+D:\360data\重要数据\我的文档\Visual Studio 2012\Projects\练习\Winform\PopMusic\PopMusic\obj\Debug\PopMusic.Form1.resources
+D:\360data\重要数据\我的文档\Visual Studio 2012\Projects\练习\Winform\PopMusic\PopMusic\obj\Debug\PopMusic.Properties.Resources.resources
+D:\360data\重要数据\我的文档\Visual Studio 2012\Projects\练习\Winform\PopMusic\PopMusic\obj\Debug\PopMusic.csproj.GenerateResource.Cache
+H:\上机练习\Winform\PopMusic\PopMusic\obj\Debug\Interop.WMPLib.dll
+H:\上机练习\Winform\PopMusic\PopMusic\obj\Debug\AxInterop.WMPLib.dll
+H:\上机练习\Winform\PopMusic\PopMusic\obj\Debug\PopMusic.csproj.ResolveComReference.cache
+H:\上机练习\Winform\PopMusic\PopMusic\obj\Debug\PopMusic.Properties.Resources.resources
+H:\上机练习\Winform\PopMusic\PopMusic\obj\Debug\PopMusic.csproj.GenerateResource.Cache
+H:\上机练习\Winform\PopMusic\PopMusic\obj\Debug\PopMusic.exe
+H:\上机练习\Winform\PopMusic\PopMusic\obj\Debug\PopMusic.pdb
+H:\上机练习\Winform\PopMusic\PopMusic\bin\Debug\PopMusic.exe.config
+H:\上机练习\Winform\PopMusic\PopMusic\bin\Debug\PopMusic.exe
+H:\上机练习\Winform\PopMusic\PopMusic\bin\Debug\PopMusic.pdb
+H:\上机练习\Winform\PopMusic\PopMusic\bin\Debug\Interop.WMPLib.dll
+H:\上机练习\Winform\PopMusic\PopMusic\bin\Debug\AxInterop.WMPLib.dll
+H:\上机练习\Winform\PopMusic\PopMusic\obj\Debug\PopMusic.csprojResolveAssemblyReference.cache
+H:\上机练习\Winform\PopMusic\PopMusic\obj\Debug\PopMusic.frmMain.resources
+D:\360data\重要数据\我的文档\Visual Studio 2012\Projects\Winform\PopMusic\PopMusic\bin\Debug\PopMusic.exe.config
+D:\360data\重要数据\我的文档\Visual Studio 2012\Projects\Winform\PopMusic\PopMusic\bin\Debug\PopMusic.exe
+D:\360data\重要数据\我的文档\Visual Studio 2012\Projects\Winform\PopMusic\PopMusic\bin\Debug\PopMusic.pdb
+D:\360data\重要数据\我的文档\Visual Studio 2012\Projects\Winform\PopMusic\PopMusic\bin\Debug\Interop.WMPLib.dll
+D:\360data\重要数据\我的文档\Visual Studio 2012\Projects\Winform\PopMusic\PopMusic\bin\Debug\AxInterop.WMPLib.dll
+D:\360data\重要数据\我的文档\Visual Studio 2012\Projects\Winform\PopMusic\PopMusic\obj\Debug\Interop.WMPLib.dll
+D:\360data\重要数据\我的文档\Visual Studio 2012\Projects\Winform\PopMusic\PopMusic\obj\Debug\AxInterop.WMPLib.dll
+D:\360data\重要数据\我的文档\Visual Studio 2012\Projects\Winform\PopMusic\PopMusic\obj\Debug\PopMusic.csproj.ResolveComReference.cache
+D:\360data\重要数据\我的文档\Visual Studio 2012\Projects\Winform\PopMusic\PopMusic\obj\Debug\PopMusic.frmMain.resources
+D:\360data\重要数据\我的文档\Visual Studio 2012\Projects\Winform\PopMusic\PopMusic\obj\Debug\PopMusic.Properties.Resources.resources
+D:\360data\重要数据\我的文档\Visual Studio 2012\Projects\Winform\PopMusic\PopMusic\obj\Debug\PopMusic.csproj.GenerateResource.Cache
+D:\360data\重要数据\我的文档\Visual Studio 2012\Projects\Winform\PopMusic\PopMusic\obj\Debug\PopMusic.exe
+D:\360data\重要数据\我的文档\Visual Studio 2012\Projects\Winform\PopMusic\PopMusic\obj\Debug\PopMusic.pdb
+F:\上机练习\Winform\PopMusic\PopMusic\bin\Debug\PopMusic.exe.config
+F:\上机练习\Winform\PopMusic\PopMusic\obj\Debug\Interop.WMPLib.dll
+F:\上机练习\Winform\PopMusic\PopMusic\obj\Debug\AxInterop.WMPLib.dll
+F:\上机练习\Winform\PopMusic\PopMusic\obj\Debug\PopMusic.csproj.ResolveComReference.cache
+F:\上机练习\Winform\PopMusic\PopMusic\obj\Debug\PopMusic.exe
+F:\上机练习\Winform\PopMusic\PopMusic\obj\Debug\PopMusic.pdb
